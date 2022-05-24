@@ -5,5 +5,5 @@
 
 ![Front end](https://github.com/PageDAO/minter-minting-dapp) - Minter Minting Dapp
 ![Back end](https://github.com/PageDAO/minter-minting-backend) - Back end
-![Solidity Contracts](https://github.com)
+![Solidity Contracts](https://github.com/PageDAO/PFP-Minter/tree/master/contracts)
 
